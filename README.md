@@ -1,2 +1,7 @@
-# EE 5450 Module 1 Summative
-Add your text here.  If you would like a Markdown cheatsheet: https://www.markdownguide.org/cheat-sheet/
+# EE 5450 Summative
+Creating a Chess Game
+
+# Introduction
+Chess game coded in Python.
+Data base awas created and a Web API
+Future plans include make a gui using kivy and Request
